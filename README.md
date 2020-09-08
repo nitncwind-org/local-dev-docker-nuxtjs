@@ -25,7 +25,7 @@ $ git@github.com:Yamada-Factory/local-dev-docker-nuxtjs.git
 
 $ cd local-dev-docker-nuxtjs
 
-$ git clone git@github.com:{nuxt-project}.git
+$ git clone git@github.com:{vue-project}.git
 
 $ cp .env.sample .env
 
